@@ -1,3 +1,8 @@
+@font-face {
+    font-family: "UConn";
+    src: url(../css/NCAA_UConn_Huskies_Extended/NCAA_UConn_Huskies_Extended.woff);
+}
+
 #wordmark,#university-of-connecticut,#site-title,#super-title{text-rendering:geometricPrecision;-ms-filter:"progid:DXImageTransform.Microsoft.Alpha(opacity=99)";filter:progid:DXImageTransform.Microsoft.Alpha(opacity=99);-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}#uconn-banner article,#uconn-banner aside,#uconn-banner details,#uconn-banner figcaption,#uconn-banner figure,#uconn-banner footer,#uconn-banner header,#uconn-banner hgroup,#uconn-banner nav,#uconn-banner section,#uconn-banner summary{display:block}#uconn-banner audio,#uconn-banner canvas,#uconn-banner video{display:inline-block;*display:inline;*zoom:1}#uconn-banner audio:not([controls]){display:none;height:0}#uconn-banner [hidden],#uconn-banner template{display:none}#uconn-banner html{font-size:100%;background:#fff;color:#000;-webkit-text-size-adjust:100%;-ms-text-size-adjust:100%}#uconn-banner html,#uconn-banner button,#uconn-banner input,#uconn-banner select,#uconn-banner textarea{font-family:sans-serif}
 
 #uconn-banner body{margin:0}/*#uconn-banner a{background:transparent}*/#uconn-banner a:focus{outline:thin dotted}#uconn-banner a:hover,#uconn-banner a:active{outline:0}#uconn-banner h1{font-size:2em;margin:0.67em 0}#uconn-banner h2{font-size:1.5em;margin:0.83em 0}#uconn-banner h3{font-size:1.17em;margin:1em 0}#uconn-banner h4{font-size:1em;margin:1.33em 0}#uconn-banner h5{font-size:0.83em;margin:1.67em 0}#uconn-banner h6{font-size:0.75em;margin:2.33em 0}#uconn-banner abbr[title]{border-bottom:1px dotted}#uconn-banner b,#uconn-banner strong{font-weight:bold}#uconn-banner blockquote{margin:1em 40px}#uconn-banner dfn{font-style:italic}#uconn-banner mark{background:#ff0;color:#000}#uconn-banner p,#uconn-banner pre{margin:1em 0}#uconn-banner code,#uconn-banner kbd,#uconn-banner pre,#uconn-banner samp{font-family:monospace, serif;_font-family:'courier new', monospace;font-size:1em}#uconn-banner pre{white-space:pre;white-space:pre-wrap;word-wrap:break-word}#uconn-banner q{quotes:"\201C" "\201D" "\2018" "\2019"}#uconn-banner q{quotes:none}#uconn-banner q:before,#uconn-banner q:after{content:'';content:none}#uconn-banner small{font-size:80%}#uconn-banner sub,#uconn-banner sup{font-size:75%;line-height:0;position:relative;vertical-align:baseline}#uconn-banner sup{top:-0.5em}#uconn-banner sub{bottom:-0.25em}#uconn-banner dl,#uconn-banner menu,#uconn-banner ol,#uconn-banner ul{margin:1em 0}#uconn-banner dd{margin:0 0 0 40px}#uconn-banner menu,#uconn-banner ol,#uconn-banner ul{padding:0 0 0 40px}#uconn-banner nav ul,#uconn-banner nav ol{list-style-image:none}#uconn-banner img{border:0;-ms-interpolation-mode:bicubic}#uconn-banner svg:not(:root){overflow:hidden}#uconn-banner figure{margin:0}#uconn-banner form{margin:0}#uconn-banner fieldset{border:1px solid #c0c0c0;margin:0 2px;padding:0.35em 0.625em 0.75em}#uconn-banner legend{border:0;padding:0;white-space:normal;*margin-left:-7px}#uconn-banner button,#uconn-banner input,#uconn-banner select,#uconn-banner textarea{font-family:inherit;font-size:100%;margin:0;vertical-align:baseline;*vertical-align:middle}#uconn-banner button,#uconn-banner input{line-height:normal}#uconn-banner button,#uconn-banner select{text-transform:none}#uconn-banner button,#uconn-banner html input[type="button"],#uconn-banner input[type="reset"],#uconn-banner input[type="submit"]{-webkit-appearance:button;cursor:pointer;*overflow:visible}#uconn-banner button[disabled],#uconn-banner input[disabled]{cursor:default}#uconn-banner input[type="checkbox"],#uconn-banner input[type="radio"]{box-sizing:border-box;padding:0;*height:13px;*width:13px}#uconn-banner input[type="search"]{-webkit-appearance:textfield;-moz-box-sizing:content-box;-webkit-box-sizing:content-box;box-sizing:content-box}#uconn-banner input[type="search"]::-webkit-search-cancel-button,#uconn-banner input[type="search"]::-webkit-search-decoration{-webkit-appearance:none}#uconn-banner button::-moz-focus-inner,#uconn-banner input::-moz-focus-inner{border:0;padding:0}#uconn-banner textarea{overflow:auto;vertical-align:top}#uconn-banner table{border-collapse:collapse;border-spacing:0}#uconn-banner a:link,#uconn-banner a:hover,#uconn-banner a:visited{text-decoration:none}@font-face{font-family:"UConn";src:url("http://cag.uconn.edu/common/fonts/uconn/uconn.eot");src:url("http://cag.uconn.edu/common/fonts/uconn/uconn.eot?#iefix") format("embedded-opentype"),url("http://cag.uconn.edu/common/fonts/uconn/uconn.svg#uconnregular") format("svg"),url("http://cag.uconn.edu/common/fonts/uconn/uconn.woff") format("woff"),url("http://cag.uconn.edu/common/fonts/uconn/uconn.ttf") format("truetype");font-weight:normal;font-style:normal}@font-face{font-family:"Proxima Nova";src:url("http://cag.uconn.edu/common/fonts/uconn/ProximaNova-Bold-webfont.eot");src:url("http://cag.uconn.edu/common/fonts/uconn/ProximaNova-Bold-webfont.eot?#iefix") format("embedded-opentype"),url("http://cag.uconn.edu/common/fonts/uconn/ProximaNova-Bold-webfont.svg#proxima_nova_ltsemibold") format("svg"),url("http://cag.uconn.edu/common/fonts/uconn/ProximaNova-Bold-webfont.woff") format("woff"),url("http://cag.uconn.edu/common/fonts/uconn/ProximaNova-Bold-webfont.ttf") format("truetype");font-weight:bold;font-style:normal}@font-face{font-family:"Proxima Nova";src:url("http://cag.uconn.edu/common/fonts/uconn/ProximaNova-BoldIt-webfont.eot");src:url("http://cag.uconn.edu/common/fonts/uconn/ProximaNova-BoldIt-webfont.eot?#iefix") format("embedded-opentype"),url("http://cag.uconn.edu/common/fonts/uconn/ProximaNova-BoldIt-webfont.svg#proxima_novabold_italic") format("svg"),url("http://cag.uconn.edu/common/fonts/uconn/ProximaNova-BoldIt-webfont.woff") format("woff"),url("http://cag.uconn.edu/common/fonts/uconn/ProximaNova-BoldIt-webfont.ttf") format("truetype");font-weight:bold;font-style:italic}@font-face{font-family:"Proxima Nova";src:url("http://cag.uconn.edu/common/fonts/uconn/ProximaNova-Sbold-webfont.eot");src:url("http://cag.uconn.edu/common/fonts/uconn/ProximaNova-Sbold-webfont.eot?#iefix") format("embedded-opentype"),url("http://cag.uconn.edu/common/fonts/uconn/ProximaNova-Sbold-webfont.svg#proxima_nova_ltsemibold") format("svg"),url("http://cag.uconn.edu/common/fonts/uconn/ProximaNova-Sbold-webfont.woff") format("woff"),url("http://cag.uconn.edu/common/fonts/uconn/ProximaNova-Sbold-webfont.ttf") format("truetype");font-weight:500;font-style:normal}@font-face{font-family:"Proxima Nova";src:url("http://cag.uconn.edu/common/fonts/uconn/ProximaNova-Reg-webfont.eot");src:url("http://cag.uconn.edu/common/fonts/uconn/ProximaNova-Reg-webfont.eot?#iefix") format("embedded-opentype"),url("http://cag.uconn.edu/common/fonts/uconn/ProximaNova-Reg-webfont.svg#proxima_nova_rgregular") format("svg"),url("http://cag.uconn.edu/common/fonts/uconn/ProximaNova-Reg-webfont.woff") format("woff"),url("http://cag.uconn.edu/common/fonts/uconn/ProximaNova-Reg-webfont.ttf") format("truetype");font-weight:normal;font-style:normal}@font-face{font-family:"Proxima Nova";src:url("http://cag.uconn.edu/common/fonts/uconn/ProximaNova-RegIt-webfont.eot");src:url("http://cag.uconn.edu/common/fonts/uconn/ProximaNova-RegIt-webfont.eot?#iefix") format("embedded-opentype"),url("http://cag.uconn.edu/common/fonts/uconn/ProximaNova-RegIt-webfont.svg#proxima_novaregular_italic") format("svg"),url("http://cag.uconn.edu/common/fonts/uconn/ProximaNova-RegIt-webfont.woff") format("woff"),url("http://cag.uconn.edu/common/fonts/uconn/ProximaNova-RegIt-webfont.ttf") format("truetype");font-weight:normal;font-style:italic}@font-face{font-family:'icons';src:url("http://cag.uconn.edu/common/fonts/uconn/icons.eot");src:url("http://cag.uconn.edu/common/fonts/uconn/icons.eot?#iefix") format("embedded-opentype"),url("http://cag.uconn.edu/common/fonts/uconn/icons.ttf") format("truetype"),url("http://cag.uconn.edu/common/fonts/uconn/icons.woff") format("woff"),url("http://cag.uconn.edu/common/fonts/uconn/icons.svg#icons") format("svg");font-weight:normal;font-style:normal}[class*="icon-"]{font-family:'icons';speak:none;font-style:normal;font-weight:normal;font-variant:normal;text-transform:none;line-height:1;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}.icon-a-z:before{content:"\e600"}.icon-search:before{content:"\e601"}
@@ -44,7 +49,7 @@ body {
     display: block;
     color: #777;
     text-decoration: none;
-    padding-right: 15px;
+    padding-right: 2vw;
     padding-top: 15px;
     outline: 0;
     background: transparent;
@@ -52,7 +57,7 @@ body {
     text-align: -webkit-match-parent;
 }
 
-li a:hover {
+.navbar > .nav-list li a:hover {
     color: black;
 }
 
@@ -167,11 +172,13 @@ li a:hover {
     height: 10%;
 }
 
-.main-body > .side-contents > #opentoday > #cvmdlcert {
-    width: 70%;
-    height: 30%;
-    margin-top: 1em;
-
+.main-body > .side-contents > #cvmdlcert {
+/*
+    width: 20vw;
+    height: 10vh;
+*/
+    width: 200px;
+    height: 150px;
 }
 .main-body > .side-contents > #hours {
     border: 1px solid transparent;
@@ -251,3 +258,13 @@ p {
     margin-bottom: 10px;
 }
 
+@media screen and (min-height: 1079px) {
+    .main-body > .main-contents > .main-spotlight {
+
+        min-height: 50%;
+    }
+    .main-body > .main-contents > .main-spotlight > #cvmdlslide {
+        width: 350px;
+        height: 400px;
+    }
+}
